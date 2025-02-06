@@ -43,7 +43,7 @@
 #### OS
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Amazon Linux-FF9900?style=flat-square&logo=Amazon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=flat-square&logo=Rocky Linux&logoColor=white"/>    
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white"/>
