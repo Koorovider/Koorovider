@@ -3,8 +3,24 @@
 ## About me
 
 ## Experience
-### Project
+[Com2uS Platform](https://com2us.com/platform)
+- 재직기간 : 2022.01 ~ 2024.12
+- 직무 : Cloud engineer
+- 담당 업무 : 컴투스 게임 서비스 및 사내 시스템 구성 및 운영
 
+[NHN Soft](https://nhn.com)
+- 재직기간 : 2020.10 ~ 2022.01
+- 직무 : Infrastructure engineer
+- 담당 업무 : NHN 호스팅 서비스의 사내 시스템 관리, 쇼핑몰 서비스 운영, 호스팅 서비스(코로케이션, 서버호스팅) 구성 및 운영
+
+[MTOS Solutions](https://www.mtos.co.kr/)
+- 재직기간 : 2017.06 ~ 2020.10
+- 직무 : System engineer
+- 담당 업무 : ebaykorea IDC 운영 (Gmarket, Auction, SmilePay)
+
+## Project
+- [IDC 이전 프로젝트](http://링크주소)
+  
 ## Stack
 #### Cloud
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
