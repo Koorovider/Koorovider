@@ -69,6 +69,7 @@
   <img src="https://img.shields.io/badge/Packer-0A56C2?style=flat-square&logo=Packer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=Puppet&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Jenkins-3EAAAF?style=flat-square&logo=Jenkins&logoColor=black"/>  
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
