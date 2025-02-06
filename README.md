@@ -2,13 +2,10 @@
 
 ## About me
 
-<div>
-  
-</div>
+## Experience
+### Project
 
 ## Stack
-<br>
-
 #### Cloud
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white"/>
@@ -85,7 +82,5 @@
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Argo CD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/>  
 </div>
-
-</br>
 
 <img src="https://github-readme-stats-psi-self.vercel.app/api?username=Koorovider&show_icons=true&theme=tokyonight&count_private=true" height="200">
