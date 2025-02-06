@@ -1,6 +1,5 @@
-# Koo
-
 ## About me
+^^
 
 ## Experience
 [Com2uS Platform](https://com2us.com/platform)
