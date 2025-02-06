@@ -2,7 +2,7 @@
 ^^
 
 ## Experience
-[Com2uS Platform](https://com2us.com/platform)
+[Com2us Platform](https://com2us.com/platform)
 - 재직기간 : 2022.01 ~ 현재
 - 직무 : Cloud engineer
 - 담당 업무 : 컴투스 사내 시스템 관리 및 게임 서비스 구성 및 운영
