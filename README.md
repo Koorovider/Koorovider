@@ -57,6 +57,8 @@
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Zabbix-FF4C00?style=flat-square&logo=Zabbix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-FF4500?style=flat-square&logo=Grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
 </div>
 
 #### LDAP
