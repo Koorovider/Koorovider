@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  
   <img src="https://img.shields.io/badge/LINE-00C300?style=flat-square&logo=LINE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DingTalk-2196F3?style=flat-square&logo=DingTalk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>  
 </div>
 
