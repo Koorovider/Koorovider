@@ -21,6 +21,13 @@
 - [IDC 이전 프로젝트](http://링크주소)
   
 ## Stack
+#### Languages
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNUBash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
+
 #### Cloud
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white"/>
