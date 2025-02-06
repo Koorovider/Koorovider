@@ -29,6 +29,18 @@
   <img src="https://img.shields.io/badge/Tencent%20Cloud-00A1E0?style=flat-square&logo=Tencent%20Cloud&logoColor=white"/>
 </div>
 
+#### Virtualization
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat-square&logo=Microsoft&logoColor=white"/>
+</div>
+
+#### Hardware
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/DELL-007DB8?style=flat-square&logo=Dell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HP-0096D6?style=flat-square&logo=HP&logoColor=white"/>
+</div>
+
 #### OS
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
@@ -36,12 +48,6 @@
   <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=flat-square&logo=Rocky Linux&logoColor=white"/>    
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white"/>
-</div>
-
-#### Virtualization
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyper--V-0078D7?style=flat-square&logo=Microsoft&logoColor=white"/>
 </div>
 
 #### Operation
