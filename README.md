@@ -15,7 +15,7 @@
 [MTOS Solutions](https://www.mtos.co.kr/)
 - 재직기간 : 2017.06 ~ 2020.10
 - 직무 : System engineer
-- 담당 업무 : ebaykorea IDC 운영 (Gmarket, Auction, SmilePay)
+- 담당 업무 : ebaykorea IDC 운영 및 가상화 (Gmarket, Auction, SmilePay)
 
 ## Project
 - [IDC 이전 프로젝트](http://링크주소)
