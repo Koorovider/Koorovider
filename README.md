@@ -101,6 +101,7 @@
 #### ETC
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Packer-0A56C2?style=flat-square&logo=Packer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=Vault&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=Puppet&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
